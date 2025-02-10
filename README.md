@@ -6,7 +6,7 @@ I'm a **Full Stack Developer and Blockchain Engineer** passionate about **buildi
 <img align="right" alt="Blockchain Animation" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="450" />
 
 ### 💡 About Me:
-- 🚀 **Developing scalable Web3, DeFi, and NFT applications**
+- 🚀 **Developing scalable Web3, DeFi, and NFT**
 - 🎨 **Experienced in UI/UX for dApps and frontend development**
 - ☁️ **Cloud Platforms: AWS, Digital Ocean, GCP, Azure**
 - 💎 **Deep expertise in Layer-1 & Layer-2 blockchain technologies**
